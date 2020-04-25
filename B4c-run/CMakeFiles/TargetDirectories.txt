@@ -1,0 +1,7 @@
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/install/local.dir
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/install/strip.dir
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/install.dir
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/list_install_components.dir
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/rebuild_cache.dir
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/edit_cache.dir
+/Users/elisa/Desktop/GEANT4/B4c-run/CMakeFiles/exampleB4c.dir
