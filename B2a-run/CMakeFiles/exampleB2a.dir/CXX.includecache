@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Applications/geant4.10.06-build/source/geometry/include/G4GeomConfig.hh
+/Applications/geant4_10_06-build/source/geometry/include/G4GeomConfig.hh
 
-/Applications/geant4.10.06-build/source/global/include/G4GlobalConfig.hh
+/Applications/geant4_10_06-build/source/global/include/G4GlobalConfig.hh
 
 /Applications/geant4_10_06_p01/source/digits_hits/detector/include/G4CollectionNameVector.hh
 globals.hh

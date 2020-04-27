@@ -223,7 +223,7 @@ EXPAT_INCLUDE_DIR:PATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacO
 EXPAT_LIBRARY:FILEPATH=/usr/lib/libexpat.dylib
 
 //The directory containing a CMake configuration file for Geant4.
-Geant4_DIR:PATH=/Applications/geant4.10.06-build
+Geant4_DIR:PATH=/Applications/geant4_10_06-build
 
 //pkg-config executable
 PKG_CONFIG_EXECUTABLE:FILEPATH=PKG_CONFIG_EXECUTABLE-NOTFOUND

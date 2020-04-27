@@ -41,7 +41,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/Applications/geant4_10_06_p01/source/event/include"
   "/Applications/geant4_10_06_p01/source/externals/clhep/include"
   "/Applications/geant4_10_06_p01/source/externals/zlib/include"
-  "/Applications/geant4.10.06-build/source/geometry/include"
+  "/Applications/geant4_10_06-build/source/geometry/include"
   "/Applications/geant4_10_06_p01/source/geometry/biasing/include"
   "/Applications/geant4_10_06_p01/source/geometry/divisions/include"
   "/Applications/geant4_10_06_p01/source/geometry/magneticfield/include"
@@ -51,7 +51,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/Applications/geant4_10_06_p01/source/geometry/solids/CSG/include"
   "/Applications/geant4_10_06_p01/source/geometry/solids/specific/include"
   "/Applications/geant4_10_06_p01/source/geometry/volumes/include"
-  "/Applications/geant4.10.06-build/source/global/include"
+  "/Applications/geant4_10_06-build/source/global/include"
   "/Applications/geant4_10_06_p01/source/global/HEPGeometry/include"
   "/Applications/geant4_10_06_p01/source/global/HEPNumerics/include"
   "/Applications/geant4_10_06_p01/source/global/HEPRandom/include"
@@ -168,7 +168,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/Applications/geant4_10_06_p01/source/visualization/gMocren/include"
   "/Applications/geant4_10_06_p01/source/visualization/management/include"
   "/Applications/geant4_10_06_p01/source/visualization/modeling/include"
-  "/Applications/geant4.10.06-build/source/externals/zlib"
+  "/Applications/geant4_10_06-build/source/externals/zlib"
   )
 
 # Targets to which this target links.
