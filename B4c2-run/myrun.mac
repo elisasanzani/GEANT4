@@ -1,0 +1,6 @@
+ /run/initialize
+
+/gun/particle pi-
+/gun/energy 50000 MeV
+
+/run/beamOn 300
