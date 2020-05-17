@@ -1,9 +1,0 @@
-
-/run/initialize
-
-/gun/particle pi+
-/gun/energy 1000 MeV
-
-/run/beamOn 100
-
-

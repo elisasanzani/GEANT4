@@ -1,0 +1,25 @@
+ /run/initialize
+ 
+/gun/particle pi+
+/gun/energy 1 GeV
+/run/beamOn 100
+
+/gun/particle pi+
+/gun/energy 2 GeV
+/run/beamOn 100
+
+/gun/particle pi+
+/gun/energy 4 GeV
+/run/beamOn 100
+
+/gun/particle pi+
+/gun/energy 6 GeV
+/run/beamOn 100
+
+/gun/particle pi+
+/gun/energy 8 GeV
+/run/beamOn 100
+
+/gun/particle pi+
+/gun/energy 10 GeV
+/run/beamOn 100

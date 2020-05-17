@@ -1,0 +1,6 @@
+ /run/initialize
+
+/gun/particle e-
+/gun/energy 10000 MeV
+
+/run/beamOn 1000
