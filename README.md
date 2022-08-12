@@ -1,6 +1,15 @@
 # GEANT4
+To execute, in the run directory do:
 
-DO NOT add all fines perchè i video sono troppo grandi.
-Add i file/folder uno per volta.
 
-Puoi fare commit -a -m
+cmake ../hcalES
+
+
+make
+
+
+./hcalES -m myrun.mac
+
+
+To visualize files on root:
+root -l ES.root
